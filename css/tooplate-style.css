@@ -66,14 +66,13 @@ p:last-child {
 }
 
 .tm-nav-section {
-  position: absolute;
-  top: 158px;
-  left: 0;
-  width: 100%;
-  border-top: 1px solid #909090;
-  border-bottom: 1px solid #909090;
-  background-color: white;
-  z-index: 3000;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    border-top: 1px solid #909090;
+    border-bottom: 1px solid #909090;
+    background-color: white;
+    z-index: 3000;
 }
 
 .tm-nav-section.sticky {
@@ -157,9 +156,9 @@ p:last-child {
 }
 
 .tm-features-section {
-  padding-top: 50px;
-  padding-bottom: 85px;
-  margin-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 85px;
+    margin-top: 10px;
 }
 
 .tm-features-row {
